@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dondaze, my name is Jason Tan
+- 👋 Hi, I’m Jason Tan
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C and Phythom
 - 💞️ Currently no collaboration
