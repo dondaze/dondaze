@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Tan
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C and Phythom
+- 🌱 I’m currently learning C and Phython
 - 💞️ Currently no collaboration
 - 📫 How to reach me: jasontanchoonwee@gmail.com
 
