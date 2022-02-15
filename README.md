@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Tan
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C and Phython
+- 👀 I’m interested in programming
+- 🌱 I’m currently studying Computer Science in Singapore NTU
 - 💞️ Currently no collaboration
 - 📫 How to reach me: jasontanchoonwee@gmail.com
 
